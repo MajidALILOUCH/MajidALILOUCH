@@ -1,9 +1,11 @@
 <h2> Hey there! I'm Majid.</h2>
 
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Web Development at Institute specialized in offshoring professions.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
