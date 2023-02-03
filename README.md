@@ -33,6 +33,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/majid-alilouch-8a246a225/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Majid%20Alilouch%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/majid.alilouch/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/majid.alilouch/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-majid.alilouch-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:majidach2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
