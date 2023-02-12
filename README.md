@@ -3,8 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Web Development at Institute specialized in offshoring professions.
+- 🎓 &nbsp; I am a student studying web development at the Institute specialized in offshoring professions in Tetuan.
+- 🤔 My goal is to become a great full-stack web developer and to continue learning and expanding my skills in the field.
+- In my free time, I enjoy playing football, video games, and participating in sports. Coding has become a big part of my life and I really enjoy it.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
