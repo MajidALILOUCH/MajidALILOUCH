@@ -5,7 +5,7 @@
 
 - :mortar_board: &nbsp; I am a student at the Institute specialized in offshoring professions in Tetuan.
 - :dart: &nbsp; My goal is to become a full-stack web developer and to continue learning and expanding my skills in the field.
-- :grinning: &nbsp; In my free time, I enjoy playing football, video games, and participating in sports. Coding has become a big part of my life and I really enjoy it.
+- :grinning: &nbsp; In my free time, I enjoy playing football, video games, and coding has become a big part of my life and I really enjoy it.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
