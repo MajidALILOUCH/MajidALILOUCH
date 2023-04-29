@@ -3,9 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- :mortar_board: &nbsp; I am a student at the Institute specialized in offshoring professions in Tetuan.
-- :dart: &nbsp; My goal is to become a full-stack web developer and to continue learning and expanding my skills in the field.
-- :grinning: &nbsp; In my free time, I enjoy playing football, video games, and coding has become a big part of my life and I really enjoy it.
+-  I'm a self-taught front-end developer who's passionate about building great-looking websites. On my GitHub profile, you'll find a collection of personal projects and code samples that I've worked on. I hope you find them useful and inspiring for your own projects. Let's connect and collaborate on something beautiful!
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
