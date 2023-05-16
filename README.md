@@ -30,6 +30,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+<a href="https://www.majidalilouch.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.majidalilouch.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/majid-alilouch/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Majid%20Alilouch%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/majid_alilouch/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-majid_alilouch-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:majidach2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-majidach2001@gmail.com-blue?style=flat-square&logo=gmail"></a>
