@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--  I'm a self-taught front-end developer who's passionate about building great-looking websites. On my GitHub profile, you'll find a collection of personal projects and code samples that I've worked on. I hope you find them useful and inspiring for your own projects. Let's connect and collaborate on something beautiful!
+-  I'm a self-taught web developer who's passionate about building great-looking websites. On my GitHub profile, you'll find a collection of personal projects and code samples that I've worked on. I hope you find them useful and inspiring for your own projects. Let's connect and collaborate on something beautiful!
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
