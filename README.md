@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
 
+<br>
 
 - 🌱 I’m currently learning **Angular, Spring Boot, PL / SQL**
 
