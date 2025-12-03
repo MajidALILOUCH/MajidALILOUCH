@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majidalilouch&label=Profile%20views&color=0e75b6&style=flat" alt="majidalilouch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majidalilouch" alt="majidalilouch" /></a> </p>
-
 - 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [majidalilouch.netlify.app](majidalilouch.netlify.app)
