@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
 
-- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [majidalilouch.netlify.app](majidalilouch.netlify.app)
 
